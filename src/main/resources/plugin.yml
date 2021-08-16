@@ -1,0 +1,22 @@
+name: Duels
+version: 0.1
+main: nl.djorr.duels.Duels
+authors: [Djorr]
+softdepend: [HolographicDisplays]
+commands:
+   forcestart:
+    description: duels command
+   setup:
+    description: duels command
+   forcestop:
+    description: duels command
+   leave:
+    description: duels command
+   holo:
+    description: duels command
+   detect:
+    description: duels command
+   vanish:
+    description: duels command
+   books:
+    description: duels command
